@@ -1,6 +1,6 @@
-<h1> Hello, Welcome to Simple DevOps Project Alma!!   </h1>
-<h2> Data Service Group is your employer and learning partner. </h2>
-<h2> Hope you are enyoying your work. </h2>
-<h1> Good job, Alma on making it this far. </h1>
-<h1> This line is for docker test. </h1>
-
+<h1> Hello, Welcome!!!   </h1>
+<h2> I am enjoying learning something new in this class. </h2>
+<h2> Challenging oneself is great. </h2>
+<h1> I look forward to mastering DevOps. </h1>
+<h1> So help me God. </h1>
+<h1> We are going from git to jenkins to kubernetes</h1>
